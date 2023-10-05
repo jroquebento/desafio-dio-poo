@@ -1,6 +1,6 @@
 ## Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
-Esse projeto utiliza os pilares da Orientação a Objetos para a lógica de um Bootcamp. 
+Esse projeto utiliza os pilares da Orientação a Objetos para criar a lógica de um Bootcamp. 
 
 ### Classes
   - Bootcamp 
