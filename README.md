@@ -2,7 +2,7 @@
 
 Esse projeto utiliza os pilares da Orientação a Objetos para a lógica de um Bootcamp. 
 
-> Classes
+### Classes
   - Bootcamp 
   - Conteudo
   - Curso
@@ -10,7 +10,7 @@ Esse projeto utiliza os pilares da Orientação a Objetos para a lógica de um B
   - Main
   - Mentoria
 
-> Principais métodos
+### Principais métodos
   - inscreverBootcamp(Bootcamp bootcamp)
   - progredir()
   - calcularTotalXp()
